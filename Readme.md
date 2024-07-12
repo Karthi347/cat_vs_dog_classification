@@ -45,6 +45,6 @@ The dataset used for this project is the Kaggle Cats and Dogs dataset, which con
 
 ## Author
 
-Karthik 
+# Karthik 
 
 Feel free to reach out for any questions or suggestions regarding the project!
